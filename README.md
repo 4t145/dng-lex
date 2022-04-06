@@ -10,7 +10,7 @@ lexicon repo of project dng
     "tags": [],
     "version": "1.0.0",
     "brief": "this is an example",
-    "lexicon: [
+    "lexicon": [
         "aaa",
         "bbb"
     ]
